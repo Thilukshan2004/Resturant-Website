@@ -25,7 +25,7 @@
     font-weight: 500 !important;
     margin: 0 10px;
 }
-.nav-link:active {
+.nav-link.active {
     color: #ff9e17 !important;
 }
 .hero-section {
@@ -605,4 +605,5 @@ footer .d-flex {
 .contactus-section .form-box {
     background-color: white ;
     color: black;
+
 }
